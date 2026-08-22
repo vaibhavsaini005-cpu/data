@@ -77,14 +77,33 @@ name-level dedupe via `excluded_companies.json`.
   cloud now (no longer depends on Codex/My Mac). Colombia, Chile, Peru,
   Poland, Romania, Portugal, Italy, Sweden, Finland, plus *new* companies
   from Argentina/Brazil not already excluded.
-- **Lane D — South Asia + Eastern Europe + East Africa** — Codex on My Mac,
-  run using `LANE_D_PROMPT.md`; that laptop needs to stay awake and
-  plugged in. Pakistan, Bangladesh, Sri Lanka, Nepal, Ukraine, Czech
-  Republic, Hungary, Bulgaria, Ethiopia, Rwanda, Tanzania, Uganda — deliberately
-  new territory so Codex adds unique coverage instead of duplicating A/B/C.
+- **Lane D — South Asia + Eastern Europe + East Africa** — dual-covered:
+  Codex on My Mac (manual, `LANE_D_PROMPT.md`) plus a cloud Routine backup
+  covering the same countries, so this territory doesn't stall when Codex
+  isn't being actively supervised. Pakistan, Bangladesh, Sri Lanka, Nepal,
+  Ukraine, Czech Republic, Hungary, Bulgaria, Ethiopia, Rwanda, Tanzania,
+  Uganda.
+- **Lane E — remaining Southeast Asia + Central Asia/Caucasus** — cloud,
+  automatic. Malaysia, Cambodia, Myanmar, Laos, Kazakhstan, Uzbekistan,
+  Georgia, Armenia, Azerbaijan.
+- **Lane F — West Africa + Caribbean + remaining Europe** — cloud,
+  automatic. Senegal, Ivory Coast, Cameroon, Jamaica, Dominican Republic,
+  Trinidad and Tobago, Norway, Denmark, Serbia, Croatia, Slovenia, Greece,
+  Spain.
 - Optional extra runner: **Hiya Mac terminal**, running Lane A's own prompt
   unattended via `scripts/run-lane.sh` (see `RUNBOOK.md`) — redundant with
   the cloud Lane A, extra throughput, not required.
+
+## Scaling volume without touching quality
+
+Added Lanes E and F (2026-08-22) purely to increase total legitimate
+output — same per-run rules, same 2-3-entries-per-firing cap, same
+mandatory URL+date sourcing. The only two levers ever used to get more
+data here are (1) more disjoint-country lanes, and (2) firing more often
+(6h instead of 8h) — never a looser per-run yield or a weaker sourcing
+bar. If this repo ever shows a lane producing more than ~3 entries in one
+commit or an entry missing a real URL+date, that's a deviation from the
+standard, not a feature — flag it.
 
 ## Coordination protocol (how independent runs avoid collisions)
 
