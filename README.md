@@ -8,8 +8,44 @@ lanes have already logged, writes its findings here, and pushes back.
 
 Goal: build a **legitimate** (real, sourced, named-company) dataset of
 business failures, pivots, and successes across countries/sectors — not
-already covered by the 684-company exclusion list in this repo, and never
-duplicated between lanes.
+already covered by the 2,321-company exclusion list in this repo, and
+never duplicated between lanes.
+
+## Benchmark — what Vee Group already has (audited 2026-08-22)
+
+Two prior datasets exist in `vaibhavsaini005-cpu/vg-claude-code`. Both are
+folded into `excluded_companies.json` here so this sprint doesn't repeat
+them; their quality bar is also the floor this sprint has to clear, not
+just match.
+
+- **`vee-agents/vee_saas_success_db.xlsx`** — 1,000 rows / **684 unique
+  real companies**, Series A+ SaaS successes. Quality: real named
+  companies, real inline metrics (funding, valuation, revenue), but
+  **no per-claim URL/date citations** — sourcing is asserted, not linked.
+  Geography: 79%+ USA; the rest is thin (India ~48, then a long tail of
+  1-20 companies per country). Outcome type: **success stories only**, no
+  failures or pivots.
+- **`vee-agents/vee_research_repository.json`** — 1,883 cases / **1,720
+  unique real companies** ("Startup Graveyard"), mostly failures/near-
+  misses, some survivals. Quality: real named companies with a `sources`
+  field per entry, but sources are **named references, not links**
+  (e.g. "Bloomberg luxury marketplace analysis 2022-2024" — no URL, no
+  exact date). ~80% USA/India HQ; most of the world is barely represented.
+  Outcome mix: 263 shutdowns, 292 survived/acquired, 1,328 unclear/other —
+  the `died` field is inconsistently structured, so treat outcome
+  classification here as rough, not reliable.
+- **`vee-agents/vee_company_registry.json` / `vee_learning_db.json`** —
+  small (9 and 10 entries), explicitly **synthetic** "ghost match"
+  simulations for sales pitches, not real companies. Excluded by name
+  only (`Olive AI`, `Project Phoenix`), not treated as real coverage.
+
+**What this means for this sprint's bar**: every entry here needs a real
+**URL + date**, not just a named source — that's strictly higher rigor
+than either prior dataset achieved. And since the existing data is ~80%
+USA/India, this sprint's lane assignments deliberately avoid those two
+countries entirely, which is itself the main way "don't repeat what's
+already there" is enforced at the geography level, on top of the exact
+name-level dedupe via `excluded_companies.json`.
 
 ## Hard rules for every entry (this is what "legitimate" means here)
 
