@@ -17,7 +17,7 @@
       "logged_companies": []
     },
     "c": {
-      "runner": "Codex on My Mac (manual, see LANE_C_PROMPT.md, laptop must stay awake)",
+      "runner": "Claude (automated, cloud Routine — no longer depends on Codex/My Mac)",
       "countries": ["Colombia", "Chile", "Peru", "Poland", "Romania", "Portugal", "Italy", "Sweden", "Finland", "Argentina", "Brazil"],
       "logged_companies": []
     }

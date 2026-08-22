@@ -1,7 +1,8 @@
 # Global Market Intelligence Sprint (Aug 22 → Aug 26, 2026)
 
-This repo is the shared workspace for a 3-lane research sprint across three
-Claude/Codex subscriptions. It's how the three lanes **coordinate** ("talk
+This repo is the shared workspace for a 3-lane research sprint, all three
+lanes now cloud-automated on the same Claude account. It's how the three
+lanes **coordinate** ("talk
 to each other") — every run pulls this repo first to see what the other
 lanes have already logged, writes its findings here, and pushes back.
 
@@ -36,13 +37,15 @@ duplicated between lanes.
   the cloud, no device needs to be awake. Kenya, Ghana, Morocco, Jordan,
   Turkey, plus *new* companies from Nigeria/Egypt/UAE/Saudi Arabia not
   already excluded.
-- **Lane C — Latin America + Europe** — Codex on My Mac, run using
-  `LANE_C_PROMPT.md`; that laptop needs to stay awake and plugged in.
-  Colombia, Chile, Peru, Poland, Romania, Portugal, Italy, Sweden, Finland,
-  plus *new* companies from Argentina/Brazil not already excluded.
-- Optional 4th runner: **Hiya Mac terminal**, running Lane A's own prompt
+- **Lane C — Latin America + Europe** — also runs automatically in the
+  cloud now (no longer depends on Codex/My Mac). Colombia, Chile, Peru,
+  Poland, Romania, Portugal, Italy, Sweden, Finland, plus *new* companies
+  from Argentina/Brazil not already excluded.
+- Optional extra runner: **Hiya Mac terminal**, running Lane A's own prompt
   unattended via `scripts/run-lane.sh` (see `RUNBOOK.md`) — redundant with
   the cloud Lane A, extra throughput, not required.
+
+My Mac/Codex is now fully free — nothing in this sprint depends on it.
 
 ## Coordination protocol (how independent runs avoid collisions)
 
