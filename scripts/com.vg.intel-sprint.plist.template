@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<!--
+  Template for a macOS LaunchAgent that keeps run-lane.sh alive without a
+  Terminal window open — launchd restarts it if it ever dies, and it can
+  start automatically at login. See RUNBOOK.md for how to install this.
+
+  Replace every REPLACE_WITH_* placeholder before installing.
+-->
+<plist version="1.0">
+<dict>
+  <key>Label</key>
+  <string>com.vg.intel-sprint-REPLACE_WITH_LANE</string>
+
+  <key>ProgramArguments</key>
+  <array>
+    <string>/bin/bash</string>
+    <string>REPLACE_WITH_ABSOLUTE_PATH/scripts/run-lane.sh</string>
+    <string>REPLACE_WITH_LANE</string>
+  </array>
+
+  <key>RunAtLoad</key>
+  <true/>
+  <key>KeepAlive</key>
+  <true/>
+
+  <key>StandardOutPath</key>
+  <string>REPLACE_WITH_ABSOLUTE_PATH/scripts/launchd-REPLACE_WITH_LANE.out.log</string>
+  <key>StandardErrorPath</key>
+  <string>REPLACE_WITH_ABSOLUTE_PATH/scripts/launchd-REPLACE_WITH_LANE.err.log</string>
+</dict>
+</plist>

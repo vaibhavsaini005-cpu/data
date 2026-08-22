@@ -1,0 +1,26 @@
+{
+  "sprint_window": {
+    "start": "2026-08-22",
+    "end": "2026-08-26"
+  },
+  "repo": "vaibhavsaini005-cpu/data",
+  "branch": "main",
+  "lanes": {
+    "a": {
+      "runner": "Claude 1 (automated, cloud Routine + optional Hiya Mac terminal runner)",
+      "countries": ["Japan", "South Korea", "Vietnam", "Philippines", "Thailand", "New Zealand", "Indonesia", "Singapore"],
+      "logged_companies": []
+    },
+    "b": {
+      "runner": "Claude 2 (automated, cloud Routine)",
+      "countries": ["Kenya", "Ghana", "Morocco", "Jordan", "Turkey", "Nigeria", "Egypt", "UAE", "Saudi Arabia"],
+      "logged_companies": []
+    },
+    "c": {
+      "runner": "Codex on My Mac (manual, see LANE_C_PROMPT.md, laptop must stay awake)",
+      "countries": ["Colombia", "Chile", "Peru", "Poland", "Romania", "Portugal", "Italy", "Sweden", "Finland", "Argentina", "Brazil"],
+      "logged_companies": []
+    }
+  },
+  "notes": "logged_companies lists are the cross-lane dedupe source of truth. Always git pull before reading this file to check for other lanes' recent commits."
+}
