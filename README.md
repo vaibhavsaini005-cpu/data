@@ -91,9 +91,8 @@ name-level dedupe via `excluded_companies.json`.
   Trinidad and Tobago, Norway, Denmark, Serbia, Croatia, Slovenia, Greece,
   Spain.
 - **Lane G — Central America + remaining South America + Gulf states** —
-  contributed directly by this session's own research pass, same rules,
-  same tools. Mexico, Ecuador, Bolivia, Uruguay, Paraguay, Panama, Costa
-  Rica, Guatemala, Qatar, Kuwait, Oman, Bahrain.
+  cloud, automatic, same as A-F. Mexico, Ecuador, Bolivia, Uruguay,
+  Paraguay, Panama, Costa Rica, Guatemala, Qatar, Kuwait, Oman, Bahrain.
 - Optional extra runner: **Hiya Mac terminal**, running Lane A's own prompt
   unattended via `scripts/run-lane.sh` (see `RUNBOOK.md`) — redundant with
   the cloud Lane A, extra throughput, not required.

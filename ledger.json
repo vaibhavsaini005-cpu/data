@@ -37,7 +37,7 @@
       "logged_companies": []
     },
     "g": {
-      "runner": "Claude (this session, manual research pass — can also be automated like A-F)",
+      "runner": "Claude (automated, cloud Routine — no longer manual)",
       "countries": ["Mexico", "Ecuador", "Bolivia", "Uruguay", "Paraguay", "Panama", "Costa Rica", "Guatemala", "Qatar", "Kuwait", "Oman", "Bahrain"],
       "logged_companies": ["Casai", "Huli", "Snoonu"]
     }
