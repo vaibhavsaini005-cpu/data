@@ -41,11 +41,14 @@ duplicated between lanes.
   cloud now (no longer depends on Codex/My Mac). Colombia, Chile, Peru,
   Poland, Romania, Portugal, Italy, Sweden, Finland, plus *new* companies
   from Argentina/Brazil not already excluded.
+- **Lane D — South Asia + Eastern Europe + East Africa** — Codex on My Mac,
+  run using `LANE_D_PROMPT.md`; that laptop needs to stay awake and
+  plugged in. Pakistan, Bangladesh, Sri Lanka, Nepal, Ukraine, Czech
+  Republic, Hungary, Bulgaria, Ethiopia, Rwanda, Tanzania, Uganda — deliberately
+  new territory so Codex adds unique coverage instead of duplicating A/B/C.
 - Optional extra runner: **Hiya Mac terminal**, running Lane A's own prompt
   unattended via `scripts/run-lane.sh` (see `RUNBOOK.md`) — redundant with
   the cloud Lane A, extra throughput, not required.
-
-My Mac/Codex is now fully free — nothing in this sprint depends on it.
 
 ## Coordination protocol (how independent runs avoid collisions)
 

@@ -20,6 +20,11 @@
       "runner": "Claude (automated, cloud Routine — no longer depends on Codex/My Mac)",
       "countries": ["Colombia", "Chile", "Peru", "Poland", "Romania", "Portugal", "Italy", "Sweden", "Finland", "Argentina", "Brazil"],
       "logged_companies": []
+    },
+    "d": {
+      "runner": "Codex on My Mac (manual, see LANE_D_PROMPT.md, laptop must stay awake) — new territory, not a duplicate of A/B/C",
+      "countries": ["Pakistan", "Bangladesh", "Sri Lanka", "Nepal", "Ukraine", "Czech Republic", "Hungary", "Bulgaria", "Ethiopia", "Rwanda", "Tanzania", "Uganda"],
+      "logged_companies": []
     }
   },
   "notes": "logged_companies lists are the cross-lane dedupe source of truth. Always git pull before reading this file to check for other lanes' recent commits."
