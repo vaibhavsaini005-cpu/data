@@ -9,7 +9,7 @@
     "a": {
       "runner": "Claude 1 (automated, cloud Routine + optional Hiya Mac terminal runner)",
       "countries": ["Japan", "South Korea", "Vietnam", "Philippines", "Thailand", "New Zealand", "Indonesia", "Singapore"],
-      "logged_companies": []
+      "logged_companies": ["Propzy", "Advance", "Zenius"]
     },
     "b": {
       "runner": "Claude 2 (automated, cloud Routine)",
