@@ -14,7 +14,7 @@
     "b": {
       "runner": "Claude 2 (automated, cloud Routine)",
       "countries": ["Kenya", "Ghana", "Morocco", "Jordan", "Turkey", "Nigeria", "Egypt", "UAE", "Saudi Arabia"],
-      "logged_companies": ["Dash", "ElGameya", "Gro Intelligence", "WafR"]
+      "logged_companies": ["Dash", "ElGameya", "Gro Intelligence", "WafR", "54gene", "HALA Payments"]
     },
     "c": {
       "runner": "Claude (automated, cloud Routine — no longer depends on Codex/My Mac)",
