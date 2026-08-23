@@ -39,7 +39,7 @@
     "g": {
       "runner": "Claude (automated, cloud Routine — no longer manual)",
       "countries": ["Mexico", "Ecuador", "Bolivia", "Uruguay", "Paraguay", "Panama", "Costa Rica", "Guatemala", "Qatar", "Kuwait", "Oman", "Bahrain"],
-      "logged_companies": ["Casai", "Huli", "Snoonu", "hiSofi", "Spare", "DeltaX", "Osigu", "44.01", "Calo"]
+      "logged_companies": ["Casai", "Huli", "Snoonu", "hiSofi", "Spare", "DeltaX", "Osigu", "44.01", "Calo", "Jüsto", "Jelou"]
     }
   },
   "notes": "logged_companies lists are the cross-lane dedupe source of truth. Always git pull before reading this file to check for other lanes' recent commits."
