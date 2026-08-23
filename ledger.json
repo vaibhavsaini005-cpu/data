@@ -29,7 +29,7 @@
     "e": {
       "runner": "Claude (automated, cloud Routine)",
       "countries": ["Malaysia", "Cambodia", "Myanmar", "Laos", "Kazakhstan", "Uzbekistan", "Georgia", "Armenia", "Azerbaijan"],
-      "logged_companies": ["Naluri", "Payme", "Payze", "SuperAnnotate", "Uzum", "Glorri"]
+      "logged_companies": ["Naluri", "Payme", "Payze", "SuperAnnotate", "Uzum", "Glorri", "MYAirline", "Oyika"]
     },
     "f": {
       "runner": "Claude (automated, cloud Routine)",
