@@ -14,7 +14,7 @@
     "b": {
       "runner": "Claude 2 (automated, cloud Routine)",
       "countries": ["Kenya", "Ghana", "Morocco", "Jordan", "Turkey", "Nigeria", "Egypt", "UAE", "Saudi Arabia"],
-      "logged_companies": ["Dash", "ElGameya", "Gro Intelligence", "WafR", "54gene", "HALA Payments", "Liwwa", "TradeHub", "Alaan", "Float", "Lidya", "Sipay"]
+      "logged_companies": ["Dash", "ElGameya", "Gro Intelligence", "WafR", "54gene", "HALA Payments", "Liwwa", "TradeHub", "Alaan", "Float", "Lidya", "Sipay", "Lipa Later", "Mada"]
     },
     "c": {
       "runner": "Claude (automated, cloud Routine — no longer depends on Codex/My Mac)",
