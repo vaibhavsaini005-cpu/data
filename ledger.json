@@ -34,7 +34,7 @@
     "f": {
       "runner": "Claude (automated, cloud Routine)",
       "countries": ["Senegal", "Ivory Coast", "Cameroon", "Jamaica", "Dominican Republic", "Trinidad and Tobago", "Norway", "Denmark", "Serbia", "Croatia", "Slovenia", "Greece", "Spain"],
-      "logged_companies": ["Oda", "Julaya", "Lapaire", "Unnax", "Yobante Express", "Verne", "Diool", "Lupa Technology", "Delian Alliance Industries", "Afrikrea", "Photoncycle", "Noahs"]
+      "logged_companies": ["Oda", "Julaya", "Lapaire", "Unnax", "Yobante Express", "Verne", "Diool", "Lupa Technology", "Delian Alliance Industries", "Afrikrea", "Photoncycle", "Noahs", "Flanks", "CinetPay"]
     },
     "g": {
       "runner": "Claude (automated, cloud Routine — no longer manual)",
