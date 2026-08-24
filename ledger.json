@@ -19,7 +19,7 @@
     "c": {
       "runner": "Claude (automated, cloud Routine — no longer depends on Codex/My Mac)",
       "countries": ["Colombia", "Chile", "Peru", "Poland", "Romania", "Portugal", "Italy", "Sweden", "Finland", "Argentina", "Brazil"],
-      "logged_companies": ["Vue Storefront", "QI Tech", "Merqueo", "VendeMás", "Paynest", "Mycorena", "MaaS Global", ".lumen", "Jutro Medical", "Dank", "Toku", "Blanco", "FRVR", "Leasy"]
+      "logged_companies": ["Vue Storefront", "QI Tech", "Merqueo", "VendeMás", "Paynest", "Mycorena", "MaaS Global", ".lumen", "Jutro Medical", "Dank", "Toku", "Blanco", "FRVR", "Leasy", "DRUID AI", "Digitail"]
     },
     "d": {
       "runner": "Codex on My Mac (manual) + cloud Routine backup — new territory, not a duplicate of A/B/C",
