@@ -44,7 +44,7 @@
     "h": {
       "runner": "Codex on My Mac (manual, second lane) + cloud Routine backup — new territory, not a duplicate of A-G, deliberately excludes USA/India per README",
       "countries": ["South Africa", "Zambia", "Zimbabwe", "Mozambique", "Botswana", "Namibia", "Estonia", "Latvia", "Lithuania", "Albania", "North Macedonia", "Bosnia and Herzegovina"],
-      "logged_companies": []
+      "logged_companies": ["AI Diagnostics", "askRobin"]
     }
   },
   "notes": "logged_companies lists are the cross-lane dedupe source of truth. Always git pull before reading this file to check for other lanes' recent commits."
