@@ -93,6 +93,12 @@ name-level dedupe via `excluded_companies.json`.
 - **Lane G — Central America + remaining South America + Gulf states** —
   cloud, automatic, same as A-F. Mexico, Ecuador, Bolivia, Uruguay,
   Paraguay, Panama, Costa Rica, Guatemala, Qatar, Kuwait, Oman, Bahrain.
+- **Lane H — Southern Africa + Baltics + Balkans** — dual-covered, same
+  pattern as Lane D: Codex on My Mac (manual, second lane,
+  `LANE_H_PROMPT.md`) plus a cloud Routine backup covering the same
+  countries. South Africa, Zambia, Zimbabwe, Mozambique, Botswana,
+  Namibia, Estonia, Latvia, Lithuania, Albania, North Macedonia, Bosnia
+  and Herzegovina.
 - Optional extra runner: **Hiya Mac terminal**, running Lane A's own prompt
   unattended via `scripts/run-lane.sh` (see `RUNBOOK.md`) — redundant with
   the cloud Lane A, extra throughput, not required.
@@ -100,7 +106,8 @@ name-level dedupe via `excluded_companies.json`.
 ## Scaling volume without touching quality
 
 Added Lanes E and F (2026-08-22) purely to increase total legitimate
-output — same per-run rules, same 2-3-entries-per-firing cap, same
+output, and Lane H (2026-08-24) to give Codex a dedicated second
+territory — same per-run rules, same 2-3-entries-per-firing cap, same
 mandatory URL+date sourcing. The only two levers ever used to get more
 data here are (1) more disjoint-country lanes, and (2) firing more often
 (6h instead of 8h) — never a looser per-run yield or a weaker sourcing
