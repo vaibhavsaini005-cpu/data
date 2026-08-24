@@ -39,7 +39,7 @@
     "g": {
       "runner": "Claude (automated, cloud Routine — no longer manual)",
       "countries": ["Mexico", "Ecuador", "Bolivia", "Uruguay", "Paraguay", "Panama", "Costa Rica", "Guatemala", "Qatar", "Kuwait", "Oman", "Bahrain"],
-      "logged_companies": ["Casai", "Huli", "Snoonu", "hiSofi", "Spare", "DeltaX", "Osigu", "44.01", "Calo", "Jüsto", "Jelou", "Strike", "Krti", "KitchenomiKs", "SkipCash"]
+      "logged_companies": ["Casai", "Huli", "Snoonu", "hiSofi", "Spare", "DeltaX", "Osigu", "44.01", "Calo", "Jüsto", "Jelou", "Strike", "Krti", "KitchenomiKs", "SkipCash", "Flooss", "COFE App"]
     },
     "h": {
       "runner": "Codex on My Mac (manual, second lane) + cloud Routine backup — new territory, not a duplicate of A-G, deliberately excludes USA/India per README",
