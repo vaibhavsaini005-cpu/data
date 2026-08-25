@@ -1,42 +1,41 @@
 ---
 company: "eFishery"
 country: "Indonesia"
-sector: "Agritech / Aquaculture Tech"
+sector: "Agritech / aquaculture technology"
 outcome: "failure"
-year: "2024"
+year: "2025"
 lane: "a"
-logged_at: "2026-08-25T00:00:00Z"
+logged_at: "2026-08-25T07:20:00Z"
 sources:
-  - name: "TechCrunch — Indonesian unicorn eFishery lied about its revenues, leaked documents show"
-    url: "https://techcrunch.com/2024/12/19/indonesian-unicorn-efishery-lied-about-its-revenues/"
-    date: "2024-12-19"
-  - name: "KrASIA — eFishery fires CEO and CFO as company probes potential fraud"
-    url: "https://kr.asia/efishery-fires-founders-ceo-as-company-probes-potential-fraud/"
-    date: "2024-12-19"
+  - name: "Bloomberg — How Indonesian Startup eFishery's ex-CEO Gibran Huzaifah Faked the Numbers"
+    url: "https://www.bloomberg.com/news/features/2025-04-15/how-indonesian-startup-efishery-s-ex-ceo-gibran-huzaifah-faked-the-numbers"
+    date: "2025-04-15"
+  - name: "Bloomberg — Indonesia Police Detain Former eFishery CEO, Two Other Former Executives"
+    url: "https://www.bloomberg.com/news/articles/2025-08-05/indonesia-police-detain-ex-efishery-ceo-who-faked-data-2-others"
+    date: "2025-08-05"
 ---
 
 ## One-liner
 
-eFishery, Indonesia's only aquaculture unicorn, collapsed in December 2024 after leaked internal documents revealed the company had inflated reported revenues nearly tenfold — from actual receipts of roughly $52 million to presented figures of ~$600 million — in what became Southeast Asia's largest startup fraud case of the decade.
+eFishery, once one of Southeast Asia's most celebrated agritech startups valued north of $1 billion, collapsed after a whistleblower report and a leaked FTI Consulting investigation revealed founder Gibran Huzaifah had fraudulently inflated the company's financials by roughly $600 million dating back to 2018 — leading to a 90% workforce layoff, effective business cessation by December 2024, and his August 2025 detention by Indonesian police.
 
 ## What happened
 
-Founded in 2013 in Bandung by Gibran Huzaifah (CEO) and Chrisna Aditya (CTO), eFishery built IoT smart feeders for fish and shrimp farms that automated feeding schedules and reduced feed waste by up to 30%. The hardware was paired with a B2B marketplace platform connecting fish farmers to input suppliers and downstream buyers — a genuinely differentiated model in a sector that feeds ~250 million Indonesians.
+eFishery built IoT-connected feeding devices and a broader technology platform for fish and shrimp farmers across Indonesia, positioning itself as a data-driven modernization play for the country's large but technologically underdeveloped aquaculture sector — a pitch that helped it become one of Indonesia's most prominent and well-funded agritech unicorns. The fraud began in 2018, according to Bloomberg's reporting, when Gibran allegedly created shell corporations specifically to artificially inflate the company's income in order to secure Series A funding, a scheme investigators say continued and compounded across subsequent funding rounds as the company scaled toward its billion-dollar-plus valuation.
 
-The company raised over $200 million across multiple rounds, attracting SoftBank Vision Fund 2, Temasek Holdings, Northstar Group, EV Growth, and Go-Ventures, and was valued at approximately $1.4 billion (unicorn status) as of its Series D in early 2023. It was frequently cited as proof that Southeast Asian agritech could reach global scale.
-
-In December 2024, internal documents were leaked to investors showing a catastrophic gap between reported and actual performance: the company had fabricated revenues by routing sham transactions through a network of third-party distributors, inflating reported GMV to appear ~10× larger than real sales. The board engaged Kroll to investigate. CEO Gibran Huzaifah and CFO Adhy Wibisana were terminated. Major institutional investors faced near-total write-downs on their positions.
+The scheme unraveled after a whistleblower report triggered an internal investigation by FTI Consulting, whose leaked 52-page draft report alleged financial statements had been fraudulently inflated by approximately $600 million. As the scandal became public in late 2024, eFishery's operations effectively ceased, with the company laying off around 90% of its workforce by early 2025. Indonesian police detained Gibran and two other former executives on July 31, 2025, and the Bandung District Court ultimately sentenced Gibran to nine years in prison on April 29, 2026, closing out what Bloomberg characterized as a $300 million financial scandal that destroyed one of Southeast Asia's most celebrated startups.
 
 ## Key decisions / turning points
 
-- **Revenue fabrication via distributor network**: Rather than outright falsifying accounting records, eFishery allegedly channeled fake orders through real-but-compliant distributors who would issue invoices and then reverse the transactions off-balance sheet — a mechanism that slipped past standard due diligence for several fundraising rounds.
-- **Rapid scale pressure**: The company's ambition to expand into feed manufacturing and financial services for farmers required increasingly large capital raises, creating pressure to show hockey-stick growth even when the underlying metrics were stagnant.
-- **Late-stage investor pressure and valuation anchor**: Once the $1.4B valuation was set in the Series D, founders faced near-impossible expectations to grow into it; the fraud appears to have accelerated as the gap between reality and narrative became unbridgeable.
+- Allegedly began fabricating financial data as early as 2018 specifically to secure Series A funding, establishing a pattern of fraud that investigators say compounded across every subsequent funding round rather than being a one-time misstatement.
+- Created shell corporations specifically engineered to artificially inflate reported income, a structurally deliberate fraud mechanism rather than aggressive accounting or optimistic projections.
+- The fraud was ultimately exposed through an internal whistleblower report rather than external auditor discovery or regulatory investigation, highlighting how long founder-level fraud can persist without an internal challenge.
+- Once exposed, the company had no viable path to recovery — effective operations ceased and 90% of staff were laid off within months, reflecting how completely the company's underlying financial reality had diverged from its reported figures.
 
 ## Why it matters (pattern / lesson)
 
-eFishery is the clearest Southeast Asian example of how "story-first" venture funding in under-digitised sectors — where third-party data sources are weak and field verification is difficult — can allow fraudulent metrics to persist across multiple audit cycles. It also illustrates how IoT-plus-marketplace models are particularly hard to diligence: hardware deployment figures can be verified, but downstream transaction flows routed through opaque distributor networks cannot be easily reconciled against real-world fish sales volumes. The case has accelerated calls among Southeast Asian LPs for more rigorous on-the-ground verification before Series C and beyond.
+eFishery's collapse stands as one of Southeast Asia's starkest cautionary tales about founder-level financial fraud in high-growth venture-backed startups: a company can sustain a fabricated growth narrative across multiple funding rounds and reach a billion-dollar-plus valuation before an internal whistleblower — rather than external auditors or investors' own diligence — finally exposes the fraud. The scandal's scale (roughly $600 million in alleged inflated financials) and its criminal consequences (a nine-year prison sentence for the founder) also illustrate how Indonesia's regulatory and judicial systems have moved to hold startup founders personally accountable for financial fraud, a shift that has reportedly forced the broader Indonesian investor community to substantially raise its due-diligence standards in the scandal's aftermath.
 
 ## Sources
-- [TechCrunch — Indonesian unicorn eFishery lied about its revenues, leaked documents show](https://techcrunch.com/2024/12/19/indonesian-unicorn-efishery-lied-about-its-revenues/) — 2024-12-19
-- [KrASIA — eFishery fires CEO and CFO as company probes potential fraud](https://kr.asia/efishery-fires-founders-ceo-as-company-probes-potential-fraud/) — 2024-12-19
+- [Bloomberg — How Indonesian Startup eFishery's ex-CEO Gibran Huzaifah Faked the Numbers](https://www.bloomberg.com/news/features/2025-04-15/how-indonesian-startup-efishery-s-ex-ceo-gibran-huzaifah-faked-the-numbers) — 2025-04-15
+- [Bloomberg — Indonesia Police Detain Former eFishery CEO, Two Other Former Executives](https://www.bloomberg.com/news/articles/2025-08-05/indonesia-police-detain-ex-efishery-ceo-who-faked-data-2-others) — 2025-08-05
