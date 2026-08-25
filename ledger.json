@@ -29,7 +29,7 @@
     "e": {
       "runner": "Claude (automated, cloud Routine)",
       "countries": ["Malaysia", "Cambodia", "Myanmar", "Laos", "Kazakhstan", "Uzbekistan", "Georgia", "Armenia", "Azerbaijan"],
-      "logged_companies": ["Naluri", "Payme", "Payze", "SuperAnnotate", "Uzum", "Glorri", "MYAirline", "Oyika", "Solva", "Shop.com.mm", "Paywatch", "Jalat Logistics", "PolyDream Studio", "Call2action.ai", "Agribuddy", "Express24", "Push30", "GoDays", "1Fit", "QuickShipper", "Sug'urta Bozor"]
+      "logged_companies": ["Naluri", "Payme", "Payze", "SuperAnnotate", "Uzum", "Glorri", "MYAirline", "Oyika", "Solva", "Shop.com.mm", "Paywatch", "Jalat Logistics", "PolyDream Studio", "Call2action.ai", "Agribuddy", "Express24", "Push30", "GoDays", "1Fit", "QuickShipper", "Sug'urta Bozor", "Ashita Group", "Keepz"]
     },
     "f": {
       "runner": "Claude (automated, cloud Routine)",
