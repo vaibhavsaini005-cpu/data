@@ -154,7 +154,10 @@
         "Coda Payments",
         "Watcha",
         "TenX",
-        "Freshket"
+        "Freshket",
+        "VNG Corporation",
+        "Preferred Networks",
+        "Moladin"
       ]
     },
     "b": {
@@ -195,7 +198,7 @@
       ]
     },
     "c": {
-      "runner": "Claude (automated, cloud Routine — no longer depends on Codex/My Mac)",
+      "runner": "Claude (automated, cloud Routine \u2014 no longer depends on Codex/My Mac)",
       "countries": [
         "Colombia",
         "Chile",
@@ -213,7 +216,7 @@
         "Vue Storefront",
         "QI Tech",
         "Merqueo",
-        "VendeMás",
+        "VendeM\u00e1s",
         "Paynest",
         "Mycorena",
         "MaaS Global",
@@ -234,7 +237,7 @@
       ]
     },
     "d": {
-      "runner": "Codex on My Mac (manual) + cloud Routine backup — new territory, not a duplicate of A/B/C",
+      "runner": "Codex on My Mac (manual) + cloud Routine backup \u2014 new territory, not a duplicate of A/B/C",
       "countries": [
         "Pakistan",
         "Bangladesh",
@@ -358,7 +361,7 @@
       ]
     },
     "g": {
-      "runner": "Claude (automated, cloud Routine — no longer manual)",
+      "runner": "Claude (automated, cloud Routine \u2014 no longer manual)",
       "countries": [
         "Mexico",
         "Ecuador",
@@ -383,7 +386,7 @@
         "Osigu",
         "44.01",
         "Calo",
-        "Jüsto",
+        "J\u00fcsto",
         "Jelou",
         "Strike",
         "Krti",
@@ -391,7 +394,7 @@
         "SkipCash",
         "Flooss",
         "COFE App",
-        "Bioconversión",
+        "Bioconversi\u00f3n",
         "ueno bank",
         "ProNuvo",
         "PayCaddy",
@@ -401,7 +404,7 @@
       ]
     },
     "h": {
-      "runner": "Codex on My Mac (manual, second lane) + cloud Routine backup — new territory, not a duplicate of A-G, deliberately excludes USA/India per README",
+      "runner": "Codex on My Mac (manual, second lane) + cloud Routine backup \u2014 new territory, not a duplicate of A-G, deliberately excludes USA/India per README",
       "countries": [
         "South Africa",
         "Zambia",
