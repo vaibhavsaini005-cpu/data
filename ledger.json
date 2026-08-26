@@ -9,7 +9,7 @@
     "a": {
       "runner": "Claude 1 (automated, cloud Routine + optional Hiya Mac terminal runner)",
       "countries": ["Japan", "South Korea", "Vietnam", "Philippines", "Thailand", "New Zealand", "Indonesia", "Singapore"],
-      "logged_companies": ["Propzy", "Advance", "Zenius", "Telio", "Caruso", "Bonac", "Tridge", "I.F.F.I", "Salmon", "Halter", "Finantier", "Sendo", "Zed", "Flash Express", "GravityLabs", "WeMakePrice", "Sakana AI", "Spenmo (Summit)", "Tokenize Xchange", "FuriosaAI", "Coolmate", "eFishery"]
+      "logged_companies": ["Propzy", "Advance", "Zenius", "Telio", "Caruso", "Bonac", "Tridge", "I.F.F.I", "Salmon", "Halter", "Finantier", "Sendo", "Zed", "Flash Express", "GravityLabs", "WeMakePrice", "Sakana AI", "Spenmo (Summit)", "Tokenize Xchange", "FuriosaAI", "Coolmate", "eFishery", "JobHopin", "Techcoop"]
     },
     "b": {
       "runner": "Claude 2 (automated, cloud Routine)",
