@@ -28,7 +28,7 @@ PROMPT_FILE="$REPO_DIR/LANE_${LANE_UPPER}_PROMPT.md"
 STOP_FILE="$HOME/.intel-sprint-stop"
 LOG="$SCRIPT_DIR/intel-sprint-${LANE}.log"
 RETRY_DELAY=60          # seconds to wait before starting a new session
-END_TIME="2026-09-24 20:00:00"   # local time — 1-week sprint window from 2026-09-17; edit before running if you want a different cutoff
+END_TIME="2026-09-18 08:00:00"   # local time (IST) — 8am hard stop
 
 if [[ ! -f "$PROMPT_FILE" ]]; then
   echo "No prompt file at $PROMPT_FILE — check the lane letter and repo path." | tee -a "$LOG"
