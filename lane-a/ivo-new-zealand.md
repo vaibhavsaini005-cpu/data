@@ -13,9 +13,6 @@ sources:
   - name: "Legal IT Insider — Contract review platform Ivo raises $55m Series B"
     url: "https://legaltechnology.com/2026/01/20/contract-review-platform-ivo-raises-55m-series-b/"
     date: "2026-01-20"
-  - name: "GlobeNewswire — Ivo raises $55M to transform contracts into a trusted source of intelligence for every business"
-    url: "https://www.globenewswire.com/news-release/2026/01/20/3221758/0/en/Ivo-raises-55M-to-transform-contracts-into-a-trusted-source-of-intelligence-for-every-business.html"
-    date: "2026-01-20"
   - name: "Ivo — Ivo Raises $55M Series B to Scale AI Contract Intelligence (company blog)"
     url: "https://www.ivo.ai/blog/ivo-raises-55m-to-bring-ai-contract-intelligence-to-every-in-house-legal-team"
     date: "2026-01-20"
@@ -56,5 +53,4 @@ Finally, the multi-dimensional growth disclosure is worth noting as a signal in 
 ## Sources
 - [IT Brief New Zealand — Ivo raises USD $55 million to grow AI contract tools](https://itbrief.co.nz/story/ivo-raises-usd-55-million-to-grow-ai-contract-tools) — 2026-01-21
 - [Legal IT Insider — Contract review platform Ivo raises $55m Series B](https://legaltechnology.com/2026/01/20/contract-review-platform-ivo-raises-55m-series-b/) — 2026-01-20
-- [GlobeNewswire — Ivo raises $55M to transform contracts into a trusted source of intelligence for every business](https://www.globenewswire.com/news-release/2026/01/20/3221758/0/en/Ivo-raises-55M-to-transform-contracts-into-a-trusted-source-of-intelligence-for-every-business.html) — 2026-01-20
 - [Ivo — Ivo Raises $55M Series B to Scale AI Contract Intelligence (company blog)](https://www.ivo.ai/blog/ivo-raises-55m-to-bring-ai-contract-intelligence-to-every-in-house-legal-team) — 2026-01-20
